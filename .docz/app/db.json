@@ -1,0 +1,35 @@
+{
+  "config": {
+    "title": "Docz Demo",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "repository": null,
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "src/App.mdx",
+      "value": {
+        "name": "Hello world",
+        "route": "/",
+        "id": "59c00ed3c8ba44717da26aa5f76edd30",
+        "filepath": "src/App.mdx",
+        "fullpath": "F:\\docz-demo\\src\\App.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-app",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "hello-world",
+            "depth": 1,
+            "value": "Hello world"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}

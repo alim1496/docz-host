@@ -1,1 +1,7 @@
 node_modules
+.docz/.cache
+.docz/app
+.docz/public
+.docz/src
+.docz/gatsby-config.js
+.docz/package.json
